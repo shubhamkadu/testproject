@@ -1,0 +1,13 @@
+#This all are the important topic and aks in interview#
+
+state => state is the object that hold data of components and
+ controll the behaviour of components
+
+
+ jsx=> in jsx we have to use all in camelcase
+
+ props=> we cannot change the props its read only
+
+ super(props)=> it is to inherit the property from baseclass to childclass if we not use it inherit is not possible
+
+
